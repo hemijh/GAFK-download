@@ -11,7 +11,7 @@ Grab the `.dmg` from the latest release, open it, and drag **GAFK** into your Ap
 ## Installing
 
 1. Open the downloaded `GAFK-1.0.dmg`.
-2. Drag the **GAFK** icon onto **Applications** icon.
+2. Drag the **GAFK** icon onto the **Applications** icon.
 3. Launch GAFK from your Applications folder.
 
 The app is signed and notarized by Apple, so it opens without any security warnings.
