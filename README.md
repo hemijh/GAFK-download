@@ -1,10 +1,10 @@
 # GAFK
 
-A friendly macOS reminder that lives in your **Dock and menu bar** — it nudges you to stand up, stretch, and take a break so you don't stay glued to the screen all day.
+A macOS reminder app that lives in your **Dock and menu bar** — it nudges you to stand up and move around. You can write a custom message that motivates you to move around. It uses different time intervals from 10 minutes - 4 hours. 
 
 ## Download
 
-**➡️ [Download the latest version](../../releases/latest)**
+** [Download the latest version](../../releases/latest)**
 
 Grab the `.dmg` from the latest release, open it, and drag **GAFK** into your Applications folder.
 
